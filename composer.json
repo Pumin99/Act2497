@@ -1,0 +1,20 @@
+{
+    "name": "pumin/src",
+    "authors": [
+        {
+            "name": "Pumin99",
+            "email": "pumin_suvivor@hotmail.com"
+        }
+    ],
+    "require": {
+        "datatables/datatables": "^1.10",
+        "twbs/bootstrap": "^4.5"
+    },
+    "autoload": {
+        "psr-4": {
+                "App\\": "src/"
+        }
+
+    }
+
+}

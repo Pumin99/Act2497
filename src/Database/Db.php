@@ -5,9 +5,9 @@ use PDO;
 
 class Db {
 	private $host = "localhost";
-	private $user = "puri";
-	private $password = "puri.varo+555";
-	private $dbName = "learnDB";
+	private $user = "root";
+	private $password = "";
+	private $dbName = "act2497";
 
 	protected $pdo;
 
